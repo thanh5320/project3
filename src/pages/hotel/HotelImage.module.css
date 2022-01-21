@@ -1,0 +1,11 @@
+.main {
+    display:flex;
+}
+
+.img{
+    margin-bottom: 10px;
+}
+
+.bigImg{
+    margin-right: 10px;
+}

@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+}
+
+.name{
+    color: #1e90ff;
+}
+
+.Root{
+    background-color: #fff;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.title{
+    background-color: #4b0082;
+    color:#fff;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.col{
+    padding-left: 10px;
+    padding-right: 10px;
+}

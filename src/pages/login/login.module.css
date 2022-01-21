@@ -1,0 +1,31 @@
+.Main{
+    background-color: #00bfff;
+    width: 100%;
+    height: 100%;
+    padding-top: 10%;
+
+}
+
+.SubMain{
+    padding: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.divRow{
+    display: flex;
+}
+
+.FogotPass{
+    margin-left: 10px;
+}
+
+.SignUpLink{
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}

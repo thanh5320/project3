@@ -1,0 +1,30 @@
+.title{
+    color: #1e90ff;
+}
+
+.Main{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.MainLeft{
+    width: 10%;
+}
+
+.MainRight{
+    width: 11%;
+    margin-left: 2%;
+    border-bottom: 5px solid #2f83d8;   
+}
+
+.subTitle{
+    color: rgb(124, 54, 131);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.subTab{
+    color: rgb(91, 87, 92);
+    font-size: 20px;    
+    font-weight: bold;
+}

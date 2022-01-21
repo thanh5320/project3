@@ -1,0 +1,34 @@
+.title{
+    color: #1e90ff;
+}
+
+.hotelName{
+    color: #9400d3;
+}
+
+.startDate{
+
+}
+
+.header{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.Main{
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgb(230, 230, 230);
+    border-radius: 30px;
+    margin-top : 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text{
+    width: 20%; 
+}
+
+.date{
+    width: 30%;
+}

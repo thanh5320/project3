@@ -1,0 +1,14 @@
+.Main{
+    display: flex;
+}
+
+.SubMain{
+    width: 25%;
+    margin-left: 8%;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+

@@ -1,0 +1,47 @@
+.NameCity{
+    display: flex;
+}
+
+.City{
+    float: right;
+}
+
+.Name{
+    width: 80%;
+}
+
+.Rate{
+    width: 200px;
+}
+
+.Row{
+    display: flex;
+}
+
+.RateLeft{
+    width: 50%;
+}
+
+.RateRight{
+    width: 50%;
+    display: flex;
+}
+
+.RateRight1{
+    width: 20%;
+}
+.RateRight2{
+    width: 60%;
+}
+
+.RateRight3{
+    width: 20%;
+    padding-left: 20px;
+}
+
+.MainRate{
+    padding: 50px;
+    background-color: #b0e0e6;
+    border-radius: 50px;
+    display: flex;
+}

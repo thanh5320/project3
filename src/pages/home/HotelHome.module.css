@@ -1,0 +1,32 @@
+.main{
+    width: 250px;
+    height: 350px;
+    margin: 15px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.img {
+    width: 250px;
+    height: 150px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.footer{
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.star{
+    color: gold;
+}
+
+.a{
+    text-decoration: "none";
+}
+
+.name{
+    margin: 5px;
+}
